@@ -6,6 +6,7 @@ A notes app that uses React libraries and auto-saves notes, as you type, into a 
 ### Demo
 `Live Site`: https://notes-app-4vt.pages.dev/
 
+<img src= "https://github.com/GrandeMan/Notes-App/assets/114616062/933a92df-f7f7-4c15-b883-4fdca3b91b10" alt="Screenshot of the app on desktop" width=500 /> 
 
 
 ### Features
